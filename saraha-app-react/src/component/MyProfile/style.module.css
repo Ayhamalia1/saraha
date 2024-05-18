@@ -1,0 +1,9 @@
+.del{
+    background-color: rgb(202, 81, 81);
+    color: white;
+    border:none;
+    border-radius: 10px;
+    position: absolute;
+    right: 5px;
+    top:15px
+}
